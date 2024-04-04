@@ -1,4 +1,4 @@
-### Hi 👋, I'm Daksh Chaudhary
+<h2> Hi 👋, I'm Daksh Chaudhary </h2>
 
 - 🔭 I’m currently learning Object Oriented Programming (C++)
 - 🌱 I’m currently learning advanced concepts in C++ and Mordern Web technologies like React.js and Node.js.
