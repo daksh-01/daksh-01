@@ -3,9 +3,9 @@
 ### 🚀 About Me:
 
 - 🔭 I’m currently learning **Object-Oriented Programming (C++)** and advancing my expertise in **Web Applications**.
-- 🌱 I’m working on a **Web Application** using **React.js**, **Next.js**, and **Node.js** to create dynamic, responsive, and interactive user experiences.
-- 👯 I’m eager to collaborate on **open-source C++ projects** and **innovative web application development** initiatives.
-- 📫 **How to reach me:** contact@dakshchaudhary.me
+- 🌱 Developing a dynamic **Web Application** using **React.js**, **Next.js**, **Node.js**, and **TypeScript**, focusing on creating highly interactive and user-friendly experiences.
+- 👯 Open to collaborating on **open-source projects**, cutting-edge web applications, and AI-driven solutions.
+- 📫 Let’s Connect: Reach me at **contact@dakshchaudhary.me**.
 
 ---
 
@@ -31,9 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/> 
