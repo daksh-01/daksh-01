@@ -5,7 +5,7 @@
 - 🔭 I’m currently learning **Object-Oriented Programming (C++)** and advancing my expertise in **Web Applications**.
 - 🌱 Developing a dynamic **Web Application** using **React.js**, **Next.js**, **Node.js**, and **TypeScript**, focusing on creating highly interactive and user-friendly experiences.
 - 👯 Open to collaborating on **open-source projects**, cutting-edge web applications, and AI-driven solutions.
-- 📫 Let’s Connect: Reach me at **hello@dakshchaudhary.me**.
+- 📫 Let’s Connect: Reach me at **daksh@dakshchaudhary.me**.
 
 ---
 
