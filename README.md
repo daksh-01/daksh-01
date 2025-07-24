@@ -5,7 +5,7 @@
 - 🎓 Actively advancing my programming skills through study and practical work.
 - 💡 Passionate about **software development**, **algorithms**, and exploring emerging tech in **AI** and **programming languages**.
 - 🔍 I thrive on turning complex problems into elegant, real-world solutions through code.
-- 🤝 Always open to **collaboration** on innovative projects, open-source contributions, or just tech chats!
+- 🤝 Always open to **collaboration** on innovative projects, open-source contributions.
 
 ### 📫 Let’s Connect
 
