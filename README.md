@@ -1,20 +1,20 @@
-<h2>Hi 👋, I'm Daksh Chaudhary</h2>
+<h2>Hi, I'm Daksh 👋</h2>
 
 ### 🚀 About Me:
 
-- 🔭 I’m currently learning **Object-Oriented Programming (C++)** and advancing my expertise in **Web Applications**.
-- 🌱 Developing a dynamic **Web Application** using **React.js**, **Next.js**, **Node.js**, and **TypeScript**, focusing on creating highly interactive and user-friendly experiences.
-- 👯 Open to collaborating on **open-source projects**, cutting-edge web applications, and AI-driven solutions.
-- 📫 Let’s Connect: Reach me at **daksh@dakshchaudhary.me**.
+- 🎓 Actively advancing my programming skills through study and practical work.
+- 💡 Passionate about **software development**, **algorithms**, and exploring emerging tech in **AI** and **programming languages**.
+- 🔍 I thrive on turning complex problems into elegant, real-world solutions through code.
+- 🤝 Always open to **collaboration** on innovative projects, open-source contributions, or just tech chats!
 
----
+### 📫 Let’s Connect
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshchaudhary7/)  [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:daksh@dakshchaudhary.me)  [![Portfolio](https://img.shields.io/badge/Portfolio-007BFF.svg?logo=world&logoColor=white)](https://dakshchaudhary.me)  
+- 📧 [daksh@dakshchaudhary.me](mailto:daksh@dakshchaudhary.me)
+- 🌐 [dakshchaudhary.me](https://dakshchaudhary.me)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dakshchaudhary7/)
 
----
 
-#### **Skills**
+#### Skills
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
