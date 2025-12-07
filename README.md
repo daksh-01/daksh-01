@@ -32,6 +32,6 @@
 
 ## 📫 Let’s Connect
 
-📧 [dc@dakshchaudhary.me](mailto:dc@dakshchaudhary.com)  
-🌐 [dakshchaudhary.me](https://dakshchaudhary.com)  
+📧 [dc@dakshchaudhary.com](mailto:dc@dakshchaudhary.com)  
+🌐 [dakshchaudhary.com](https://dakshchaudhary.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/daksh7/)
